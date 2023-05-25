@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Admin Panel"
+//Указываем полный физический путь к файлу .htpasswd
+AuthUserFile D:\OpenServer\domains\localhost\mvcsite\admin\.htpasswd
